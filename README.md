@@ -10,8 +10,8 @@ Java 6 is required. Maven is required to build the library.
 
 tent-text-java is currently unpublished, so run the following to get started:
 
-`git clone git@github.com:mwanji/tent-text-java.git`
-`mvn install`
+* git clone git@github.com:mwanji/tent-text-java.git
+* mvn install
 
 You can then add the dependency to your POM.
 
